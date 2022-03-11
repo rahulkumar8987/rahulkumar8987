@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aagnia.com%2Fabout-us%2F&psig=AOvVaw3N8t1eX7FKEPqx1o-KdYzt&ust=1647065625080000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCF2eazvfYCFQAAAAAdAAAAABAG">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar8987&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar8987" /> </p>
 
