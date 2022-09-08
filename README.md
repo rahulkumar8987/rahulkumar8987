@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar8987&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar8987" /> </p>
 
-- 🔭 I’m currently working on **OPEN BANKING**
+- 🔭 I’m currently working on **Skill India Portal**
 
 - 🌱 I’m currently learning **REACT,ANGULAR**
 
